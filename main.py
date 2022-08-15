@@ -29,7 +29,6 @@ current_font_size = 16
 # skryje title bar
 # root.overrideredirect(True)
 
-
 # create new file function
 # Vymaze okno od prvniho radku az po knec
 def new_file():
